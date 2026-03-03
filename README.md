@@ -1,5 +1,5 @@
 # MessageFaceSounds for RPG Maker MV
-**Author:** DuiDwi  
+**Author:** DuiDwi as Prompter  
 **Version:** 1.0  
 **Engine:** RPG Maker MV
 
